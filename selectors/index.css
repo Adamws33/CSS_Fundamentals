@@ -1,0 +1,36 @@
+body {
+  background-color: coral;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+#one{
+  background-color: #0000ff;
+}
+#two{
+  background-color: darkblue;
+  color: greenyellow;
+}
+#three{
+  font-size: 25px;
+}
+#four{
+  color: azure;
+
+}
+.bordered{
+  border: 4px solid rgb(233, 5, 5);
+}
+.background-black{
+  background-color: black;
+}
+
+.font{
+  font-size: 80px;
+}
+
+.dashed{
+  border: 5px dashed fuchsia;
+}
