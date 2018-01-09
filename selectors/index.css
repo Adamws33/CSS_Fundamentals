@@ -5,7 +5,11 @@ body {
 p{
   font-family: sans-serif;
 }
-
+p:hover{
+  border: 2px solid black;
+  border-radius: 100px;
+}
+/* 
 #one{
   background-color: #0000ff;
 }
@@ -33,4 +37,4 @@ p{
 
 .dashed{
   border: 5px dashed fuchsia;
-}
+} */

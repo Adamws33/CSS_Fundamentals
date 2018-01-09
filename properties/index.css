@@ -1,20 +1,26 @@
 body{
   background-color: grey;
+  height: 100vh;
 }
 
 .box{
-  margin: 10px;
-  padding: 10px;
+  padding: 5px;
   border: 2px solid black;
   
 }
 .outer{
-  width: 200px;
-  height: 200px;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
   background-color: blue;
 }
 
 .inner{
+  position: relative;
+  top: 25%;
+  left: 25%;
   width: 50%;
   height: 50%;
   background-color: maroon;
