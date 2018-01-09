@@ -1,0 +1,21 @@
+body{
+  background-color: grey;
+}
+
+.box{
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  
+}
+.outer{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.inner{
+  width: 50%;
+  height: 50%;
+  background-color: maroon;
+}
