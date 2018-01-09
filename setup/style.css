@@ -1,0 +1,12 @@
+body {
+    background-color: coral;
+}
+
+h1{
+     color:rgb(23, 121, 52);
+     font-size: 50px;
+     border: 1px solid black;
+}
+p{
+    color: blue;
+}
